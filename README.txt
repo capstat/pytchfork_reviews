@@ -4,7 +4,7 @@
 to run program:
 download this .zip file and unpack it
 open a terminal
-change directories to this folder
+change directories to the unzipped folder
 enter:
 
 python setup.py install
